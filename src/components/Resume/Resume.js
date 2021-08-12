@@ -1,5 +1,5 @@
 import React from "react";
-import FullResume from "../../images/torres-resume.pdf";
+import FullResume from "../../images/torres-resume.docx.pdf";
 import Button from "react-bootstrap/Button";
 
 const Resume = () => {
